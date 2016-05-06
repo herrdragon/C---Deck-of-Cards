@@ -1,11 +1,6 @@
 // cardLib.h
 /******************************************************************************/
-/* PROGRAMMER:  Luis M. Herrnsdorf  
-   ID: 5481644
-   CLASS:       COP4338 U03   TT 7:50
-   INSTRUCTOR:  William Feild
-   ASSIGNMENT:  #3.   DUE Thursday 2/25
-*/
+/* PROGRAMMER:  Miguel Herrnsdorf  */
 /*DESCRIPTION: header file contains common constants, declarations, prototypes 
 * and type declarations that are used by deckOfCards.c and cardFunc.c.
 */
