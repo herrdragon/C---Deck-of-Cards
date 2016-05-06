@@ -5,11 +5,7 @@
 /******************************************************************************/
 /* DOCUMENTATION */
 
-/* PROGRAMMER:  Luis M. Herrnsdorf  
-   ID: 5481644
-   CLASS:       COP4338 U03   TT 7:50
-   INSTRUCTOR:  William Feild
-   ASSIGNMENT:  #3.   DUE Thursday 2/25 */
+/* PROGRAMMER:  Miguel Herrnsdorf  */
 
 /* DESCRIPTION: This program generates and display of a deck of cards and of 
 hands of cards.  The numbers of cards & players are entered via the command-line
